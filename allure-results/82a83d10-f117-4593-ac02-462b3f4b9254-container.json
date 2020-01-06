@@ -1,0 +1,1 @@
+{"uuid":"82a83d10-f117-4593-ac02-462b3f4b9254","name":"com.darksky.tests.RegistirationTest","children":["435aebda-4565-4dac-9994-75f7e9230f8c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1575858988066,"stop":1575859002515}],"afters":[],"links":[],"start":1575858988006,"stop":1575859010515}

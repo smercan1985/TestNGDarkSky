@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="DarkSky Test Sanity Suite" verbose="4">
+ 
+ 
+
+ 
+	<test name="DarkSky Sanity Test">
+	<classes>
+			<class name="Tests.MainPageTest"/>
+			<class name="Tests.TimeMachineTest"/>
+			<class name="Tests.TimeZoneTest"/>
+			<class name="Tests.RegistirationTest"/>
+			
+	</classes>
+	</test>
+</suite>

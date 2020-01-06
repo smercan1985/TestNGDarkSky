@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="113887" started-at="2019-12-16T23:54:10Z" finished-at="2019-12-16T23:56:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="113887" started-at="2019-12-16T23:54:10Z" finished-at="2019-12-16T23:56:04Z">
+      <class name="com.darksky.tests.RegistirationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="setUp" is-config="true" duration-ms="12151" started-at="2019-12-16T17:54:10Z" finished-at="2019-12-16T17:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doRegister()[pri:1, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="doRegister" duration-ms="7423" started-at="2019-12-16T17:54:22Z" description="entering email and password for register a new account" finished-at="2019-12-16T17:54:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegister -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="tearDown" is-config="true" duration-ms="116" started-at="2019-12-16T17:54:30Z" finished-at="2019-12-16T17:54:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="setUp" is-config="true" duration-ms="10730" started-at="2019-12-16T17:54:30Z" finished-at="2019-12-16T17:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doConfirm()[pri:2, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="doConfirm" duration-ms="58854" started-at="2019-12-16T17:54:41Z" description="go to do mail box, find registrition email and click verify link for register" finished-at="2019-12-16T17:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doConfirm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="tearDown" is-config="true" duration-ms="206" started-at="2019-12-16T17:55:39Z" finished-at="2019-12-16T17:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="setUp" is-config="true" duration-ms="10851" started-at="2019-12-16T17:55:40Z" finished-at="2019-12-16T17:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginTitle()[pri:3, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="verifyLoginTitle" duration-ms="13372" started-at="2019-12-16T17:55:50Z" description="get login page title for verify loged in" finished-at="2019-12-16T17:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.darksky.tests.RegistirationTest@741b3bc3]" name="tearDown" is-config="true" duration-ms="122" started-at="2019-12-16T17:56:04Z" finished-at="2019-12-16T17:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.darksky.tests.RegistirationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
